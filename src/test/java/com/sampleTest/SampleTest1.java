@@ -8,6 +8,7 @@ public class SampleTest1 {
 	public void SampleTest1() {
 		System.out.println("Sample");
 		//changes
+//person2 updated for conflict
 	}
 	
 }
